@@ -1,0 +1,120 @@
+==========================================
+               TOURNAMENT 1
+==========================================
+
+> Robot 1 (Basic)
+	Time alive: 8.25s (20.62%)
+	Projectiles hit: 3
+
+> Robot 2 (Basic)
+	Time alive: 13.73s (34.32%)
+	Projectiles hit: 5
+
+> Robot 3 (Tower) - WINNER
+	Time alive: 40.02s (100.0%)
+	Projectiles hit: 16
+
+> Robot 4 (Tower)
+	Time alive: 28.82s (72.01%)
+	Projectiles hit: 14
+
+> Robot 5 (Kamikaze) - WINNER
+	Time alive: 40.02s (100.0%)
+	Projectiles hit: 7
+
+
+==========================================
+               TOURNAMENT 2
+==========================================
+
+> Robot 1 (Basic)
+	Time alive: 23.38s (98.87%)
+	Projectiles hit: 10
+
+> Robot 2 (Basic)
+	Time alive: 16.72s (70.68%)
+	Projectiles hit: 8
+
+> Robot 3 (Tower)
+	Time alive: 6.17s (26.08%)
+	Projectiles hit: 4
+
+> Robot 4 (Tower) - WINNER
+	Time alive: 23.65s (100.0%)
+	Projectiles hit: 11
+
+> Robot 5 (Kamikaze)
+	Time alive: 6.12s (25.86%)
+	Projectiles hit: 6
+
+
+==========================================
+               TOURNAMENT 3
+==========================================
+
+> Robot 1 (Basic)
+	Time alive: 19.08s (55.77%)
+	Projectiles hit: 9
+
+> Robot 2 (Basic) - WINNER
+	Time alive: 34.22s (100.0%)
+	Projectiles hit: 10
+
+> Robot 3 (Tower)
+	Time alive: 33.95s (99.22%)
+	Projectiles hit: 10
+
+> Robot 4 (Tower)
+	Time alive: 14.68s (42.91%)
+	Projectiles hit: 8
+
+> Robot 5 (Kamikaze)
+	Time alive: 4.6s (13.44%)
+	Projectiles hit: 4
+
+
+===============================================
+               GLOBAL STATISTICS
+===============================================
+
+> Robot 1 (Basic)
+	Average time alive per tournament: 58.42%
+	Longest time alive in a tournament: 98.87%
+	Average projectiles hit per tournament: 7.33
+	Most projectiles hit in a tournament: 10
+	Tournaments won: 0
+
+> Robot 2 (Basic)
+	Average time alive per tournament: 68.33%
+	Longest time alive in a tournament: 100.0%
+	Average projectiles hit per tournament: 7.67
+	Most projectiles hit in a tournament: 10
+	Tournaments won: 1
+
+> Robot 3 (Tower)
+	Average time alive per tournament: 75.1%
+	Longest time alive in a tournament: 100.0%
+	Average projectiles hit per tournament: 10.0
+	Most projectiles hit in a tournament: 16
+	Tournaments won: 1
+
+> Robot 4 (Tower)
+	Average time alive per tournament: 71.64%
+	Longest time alive in a tournament: 100.0%
+	Average projectiles hit per tournament: 11.0
+	Most projectiles hit in a tournament: 14
+	Tournaments won: 1
+
+> Robot 5 (Kamikaze)
+	Average time alive per tournament: 46.44%
+	Longest time alive in a tournament: 100.0%
+	Average projectiles hit per tournament: 5.67
+	Most projectiles hit in a tournament: 7
+	Tournaments won: 1
+
+>> TOTAL
+	Average time alive per robot and tournament: 63.99%
+	Longest time alive by a robot in a tournament: 100.0%
+	Average projectiles hit per robot and tournament: 8.33
+	Most projectiles hit by a robot in a tournament: 16
+	Robot with most wins: Robot 2, Robot 3, Robot 4, Robot 5

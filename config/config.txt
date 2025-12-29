@@ -1,0 +1,15 @@
+ROBOTS
+Basic: 2
+Tower: 2
+Kamikaze: 1
+
+OBSTACLES
+Solid (number): 4
+Harmful (number): 2
+Explosive (seconds): 6.0
+Healing (seconds): 4.0
+
+TOURNAMENTS
+Area: 1000x700
+Max duration: 40
+Number: 3
